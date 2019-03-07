@@ -1,0 +1,22 @@
+{
+  "name": "gulptest",
+  "version": "1.0.0",
+  "description": "a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ocenajs",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^4.0.0",
+    "gulp": "^3.9.0",
+    "gulp-if": "^2.0.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.0.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-useref": "^3.0.4",
+    "run-sequence": "^2.2.1"
+  }
+}
